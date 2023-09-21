@@ -30,7 +30,7 @@ We used the following dataset for training and testing our model:
 [Link to the dataset](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
 
 ## Using the Trained Model
-You can use the final model directly on your computer by downloading the `export.pkl` file and then writing the following code:
+You can use the final model directly on your computer by downloading the [export.pkl](https://drive.google.com/file/d/10Un0dDK_BaVQ6ainiBJUPr6yyNwkCb-l/view?usp=drive_link) file and then writing the following code:
 
 ```python
 from fastai.learner import load_learner
