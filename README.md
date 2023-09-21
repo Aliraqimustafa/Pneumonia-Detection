@@ -55,7 +55,7 @@ If you have any questions or need further assistance, feel free to reach out to 
 ## Sources
 
 >For reference, you can check out the following source:
-[Link to the source](https://www.kaggle.com/code/arbazkhan971/pneumonia-detection-using-cnn-96-accuracy/notebook)
+[pneumonia-detection-using-cnn-96-accuracy](https://www.kaggle.com/code/arbazkhan971/pneumonia-detection-using-cnn-96-accuracy/notebook)
 
 
 
